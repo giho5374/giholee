@@ -4,6 +4,5 @@
 *글자*
 **글자**
 ***글자***
-<head>
-  <title>qweqweqweqwe</title>
+<head>  
   </head>
